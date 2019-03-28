@@ -1,0 +1,83 @@
+body{
+
+/*Ratio adjustments*/
+margin: auto;
+width: 70%;
+
+
+/*Font/Style*/
+font-size:18px;
+font-weight: bold;
+line-height: 25px;
+
+/*Overlay border*/
+
+border-color: white;
+padding: 15px;
+border-width: 1px;
+background-color: grey;
+border-style: solid; 
+padding-bottom: 1920px;
+border-radius: 40px;
+margin-top: 50px;
+}
+
+h1{font-size: 65px;
+	text-align: left;
+	padding-top: 50px;
+	padding-bottom: 75px;
+	padding-left: 45px;
+	border-style: solid;
+	border-color: white;
+	border-top: .5px;
+	border-right: 0px;
+	border-left: 0px;
+	width: 70;
+	font-family: sans-serif;
+	color: black;
+ }
+
+/*Paragraph*/ 
+.container{
+	float: right;
+	width: 80%;
+	padding bottom: 35px;
+	padding-top: 15px;
+}
+
+/*Images*/
+#Class11{
+	float: right;
+	margin-top: -100px;
+	margin-right: 75px;
+}
+.ArnoldVideo{ 
+	float: right;
+	margin-top: 25px;
+}
+.Classnames{
+	float: left;
+	margin-top: -320px;
+	border-color: grey;
+	border-width: 10px;
+	border-style: solid;
+}
+.DrDisrespect{
+	float: right;
+	margin-top: 25px;
+
+}
+
+/*
+.fullbody{
+	border-radius: 15px;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	background-color: white;
+}
+	<style>
+	body{
+		background-image: url("background.png");
+	}
+	</style> 
